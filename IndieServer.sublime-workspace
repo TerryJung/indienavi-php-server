@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"row"
+			],
+			[
+				"artist",
+				"artist_name"
+			],
+			[
+				"concer",
+				"concert_id"
+			],
+			[
+				"conc",
+				"concert_date"
+			],
+			[
+				"concert_",
+				"concert_time"
+			],
+			[
+				"mysql_fetch_",
+				"mysql_fetch_assoc"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"arr",
+				"array_size"
+			],
+			[
+				"ar",
+				"artist_id"
+			],
+			[
+				"arti",
+				"artist_list_result"
+			],
+			[
+				"mysql_result",
+				"mysql_result"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "signin.php",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "signup.html",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Intall P",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chilchil/Desktop/indie/maniadb_to_db.php",
+		"/Users/chilchil/Desktop/indie/IndieServer.sublime-project",
+		"/Users/chilchil/Desktop/indie/favorite_artist_list.php",
+		"/Users/chilchil/Desktop/indie/favorite_artist_delete.php",
+		"/Users/chilchil/Desktop/indie/favorite_artist_add.php",
+		"/Users/chilchil/Desktop/indie/concert_today.php",
+		"/Users/chilchil/Desktop/indie/concert_reply_add.php",
+		"/Users/chilchil/Desktop/indie/concert_reply.php",
+		"/Users/chilchil/Desktop/indie/concert_list.php",
+		"/Users/chilchil/Desktop/indie/concert_detail.php",
+		"/Users/chilchil/Desktop/indie/artist_list.php",
+		"/Users/chilchil/Desktop/indie/artist_detail.php",
+		"/Users/chilchil/Desktop/indie/artist_concert.php",
+		"/Users/chilchil/Desktop/indie/sftp-config.json",
+		"/Users/chilchil/Desktop/indie/artist_album.php",
+		"/Users/chilchil/Desktop/indie/artist_fanclub_article.php",
+		"/Users/chilchil/Documents/meisterContest/main.c",
+		"/Users/chilchil/Desktop/indie/vercheck.html",
+		"/Users/chilchil/Desktop/indie/signup.html",
+		"/Users/chilchil/Desktop/indie/signin.php",
+		"/Users/chilchil/Desktop/indie/signup.php",
+		"/Users/chilchil/Desktop/indie/dbinit.php",
+		"/Users/chilchil/Desktop/indie/artist_fanclub_article",
+		"/Users/chilchil/Desktop/indie/artist_album.html",
+		"/Users/chilchil/Desktop/indie/test.php",
+		"/Applications/League of Legends.app/Contents/LoL/RADS/projects/lol_air_client_config_na/releases/0.0.0.43/deploy/lol.properties",
+		"/Users/chilchil/favorite_artist_add.php",
+		"/Users/chilchil/dbinit.php",
+		"/Users/chilchil/signup.php",
+		"/Users/chilchil/signin.php",
+		"/Users/chilchil/favorite_artist_list.php",
+		"/Users/chilchil/favorite_artist_delete.php",
+		"/Users/chilchil/artist_list.php",
+		"/Users/chilchil/concert_list.php",
+		"/Library/WebServer/Documents/application/config/database.php",
+		"/Library/WebServer/Documents/application/config/phpinfo.php",
+		"/Library/WebServer/Documents/.htaccess",
+		"/Library/WebServer/Documents/application/config/config.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"date",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "signin.php",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "signup.php",
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "signup.html",
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								16
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true
+}

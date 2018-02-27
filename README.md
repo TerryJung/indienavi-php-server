@@ -1,26 +1,28 @@
-#IndieNavi SERVER
+# IndieNavi SERVER
 
-##Account Response
+## Account Response
 
-###Register
+### Register
 
-####Parameter
+#### Parameter
+
 ```
 http://chilx2.cafe24.com/apps/server/indie/signup.php
 [POST]
 id, password, email
 ```
 
-####Code - Message
+#### Code - Message
 - 200 - OK
 
-####Error Code - Message
+#### Error Code - Message
 - 501 - ID is overlapped
 - 502 - Email is overlapped
 
 
-###Login
-####Parameter
+### Login
+#### Parameter
+
 ```
 http://chilx2.cafe24.com/apps/server/indie/signin.php
 
@@ -28,9 +30,9 @@ http://chilx2.cafe24.com/apps/server/indie/signin.php
 id, password
 ```
 
-####Code - Message
+#### Code - Message
 - 200 - OK
 
-####Error Code - Message
+#### Error Code - Message
 - 501 - Account is not exist
 - 502 - Password is not correct
